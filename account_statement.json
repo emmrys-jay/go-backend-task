@@ -1,0 +1,64 @@
+{
+    "name": "Sandra Saluzeze",
+    "currency": "Euros",
+    "currency_symbol": "€",
+    "created_at": "2023-May-20",
+    "address": {
+        "house_no": 14,
+        "street": "The Dale",
+        "city": "Whitefield hall",
+        "state": "Bettystown",
+        "country": "Meath",
+        "postal_code": "A92N27C"
+    },
+    "iban": [
+        {
+            "no": "LT087643687668780",
+            "bic": "REVOIE21"
+        }, {
+            "no": "LT087643687668780",
+            "bic": "REVOLT23"
+        }, {
+            "no": "LT087643687668780",
+            "bic": "RETBLT21"
+        }
+    ], 
+    "balance_summary": {
+        "products": [
+            {
+                "product": "Account (Current Account)",
+                "opening_balance": 2.53,
+                "money_out": 1944.09,
+                "money_in": 1978.00,
+                "closing_balance": 36.43
+            }
+        ]
+    },
+    "transactions": [
+        {
+            "date": "2023-Feb-03",
+            "description": "Apple Pay Top-Up by *5453",
+            "money_out": 0,
+            "money_in": 50,
+            "balance": 52.52
+        }, {
+            "date": "2023-Feb-03",
+            "description": "Apple Pay Top-Up by *5453",
+            "money_out": 0,
+            "money_in": 100,
+            "balance": 152.52
+        }, {
+            "date": "2023-Feb-03",
+            "description": "To MINA MILLER SAULGRIEZE",
+            "money_out": 100.00,
+            "money_in": 0,
+            "balance": 52.52
+        }, {
+            "date": "2023-Feb-07",
+            "description": "To MINA MILLER SAULGRIEZE",
+            "money_out": 10.00,
+            "money_in": 0,
+            "balance": 42.52
+        }
+    ]
+}
